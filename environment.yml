@@ -1,5 +1,4 @@
 name: cobra-eligible
 dependencies:
-- python=3
+- python=2.7
 - anaconda
-- python-qt4
