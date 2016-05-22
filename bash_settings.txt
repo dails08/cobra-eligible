@@ -1,0 +1,4 @@
+export SPARK_HOME=/usr/lib/spark/
+export PYSPARK_DRIVER_PYTHON=jupyter
+export PYSPARK_DRIVER_PYTHON_OPTS='notebook --no-browser --port=8890'
+pyspark &
